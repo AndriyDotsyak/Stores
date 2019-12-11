@@ -29,6 +29,7 @@ class MainActivity : BaseStoreActivity() {
         onClickRemove(button_remove_SL, button_add_item_SL, container_edit_SL)
 
         button_add_item_SL.setText(R.string.main_add_store)
+        edit_text_name_SL.setHint(R.string.main_enter_store_name)
     }
 
 

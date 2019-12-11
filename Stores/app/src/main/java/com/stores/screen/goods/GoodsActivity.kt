@@ -42,6 +42,7 @@ class GoodsActivity : BaseStoreActivity() {
         onClickRemove(button_remove_SL, button_add_item_SL, container_edit_SL)
 
         button_add_item_SL.setText(R.string.goods_add_goods)
+        edit_text_name_SL.setHint(R.string.goods_enter_goods_name)
     }
 
     private fun setupRecycler() {

@@ -43,6 +43,7 @@ class StorageActivity : BaseStoreActivity() {
         onClickRemove(button_remove_SL, button_add_item_SL, container_edit_SL)
 
         button_add_item_SL.setText(R.string.storage_add_storage)
+        edit_text_name_SL.setHint(R.string.storage_enter_storage_name)
     }
 
     private fun setupRecycler() {

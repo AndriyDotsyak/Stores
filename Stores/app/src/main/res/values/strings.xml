@@ -3,15 +3,18 @@
 
     <!-- Main activity start -->
     <string name="main_add_store">Add store</string>
+    <string name="main_enter_store_name">Enter a store name</string>
     <!-- Main activity end -->
 
     <!-- Storage activity start -->
     <string name="storage_toolbar_title">Storages</string>
     <string name="storage_add_storage">Add storage</string>
+    <string name="storage_enter_storage_name">Enter a storage name</string>
     <!-- Storage activity end -->
 
     <!-- Goods activity start -->
     <string name="goods_toolbar_title">Goods</string>
     <string name="goods_add_goods">Add goods</string>
+    <string name="goods_enter_goods_name">Enter a goods name</string>
     <!-- Goods activity end -->
 </resources>
