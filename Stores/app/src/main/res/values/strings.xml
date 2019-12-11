@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stores</string>
+
+    <!-- Main activity start -->
+    <string name="main_add_store">Add store</string>
+    <!-- Main activity end -->
+
+    <!-- Storage activity start -->
+    <string name="storage_toolbar_title">Storages</string>
+    <string name="storage_add_storage">Add storage</string>
+    <!-- Storage activity end -->
+
+    <!-- Goods activity start -->
+    <string name="goods_toolbar_title">Goods</string>
+    <string name="goods_add_goods">Add goods</string>
+    <!-- Goods activity end -->
+</resources>
